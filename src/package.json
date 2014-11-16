@@ -1,0 +1,9 @@
+{
+  "name": "disable-cors",
+  "title": "Disable CORS",
+  "id": "jid1-PJokW3IEJKrTCQ",
+  "description": "A toolbar button that when clicked, will disable Cross-origin resource sharing (CORS) for current tab.",
+  "author": "Tony Habash",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
